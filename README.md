@@ -3,5 +3,5 @@
 List of javascript patterns
 
 1. Creational 
-2.
+2. Structural
 3. 
