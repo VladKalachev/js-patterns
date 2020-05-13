@@ -1,3 +1,6 @@
+/**
+ * Декоратор
+ */
 class Server {
     constructor(ip, port){
         this.ip = ip;

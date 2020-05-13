@@ -1,3 +1,6 @@
+/**
+ * Адаптер
+ */
 class OldCalc {
     operations(t1, t2, operation) {
         switch (operation) {
