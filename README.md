@@ -17,3 +17,11 @@ List of javascript patterns
 - proxy;
 
 3. Behaviour
+- change_of_responsibility;
+- command;
+- iterator;
+- mediator;
+- observer;
+- state;
+- strategy;
+- template;

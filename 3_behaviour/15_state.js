@@ -4,7 +4,7 @@ class Light {
     }
   }
   
-  class RedLight extends Light {
+class RedLight extends Light {
     constructor() {
       super('red')
     }
@@ -12,9 +12,9 @@ class Light {
     sign() {
       return 'СТОП'
     }
-  }
+}
   
-  class YellowLight extends Light {
+class YellowLight extends Light {
     constructor() {
       super('yellow')
     }
@@ -22,9 +22,9 @@ class Light {
     sign() {
       return 'ГОТОВЬСЯ'
     }
-  }
+}
   
-  class GreenLight extends Light {
+class GreenLight extends Light {
     constructor() {
       super('green')
     }
@@ -34,7 +34,7 @@ class Light {
     }
   }
   
-  class TrafficLight {
+class TrafficLight {
     constructor() {
       this.states = [
         new RedLight(),
