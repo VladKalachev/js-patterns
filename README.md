@@ -2,6 +2,18 @@
 
 List of javascript patterns
 
-1. Creational 
+1. Creational
+
+- constructor;
+- factory;
+- prototype;
+- singleton;
+
 2. Structural
-3. 
+- adapter;
+- decorator;
+- facade;
+- flyweing;
+- proxy;
+
+3. Behaviour
